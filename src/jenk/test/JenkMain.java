@@ -8,7 +8,7 @@ public class JenkMain {
 		
 		Hello hell = new Hello();
 		hell.helloMsg();
-		hell.helloMsg(10);
+		hell.helloMsg(20);
 		
 	}
 	
